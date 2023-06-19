@@ -1,6 +1,8 @@
 # A-visual-history-of-Nobel-prize-winners-
-1. The most Nobel of Prizes
 
+<p align="center">
+  <img src="https://github.com/ahmadhamad55/Public-School-Test-Scores-SQL/blob/main/schoolbus.jpg"  width="400" height="300">
+</p>
 
 The Nobel Prize is perhaps the world's most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right?
 
